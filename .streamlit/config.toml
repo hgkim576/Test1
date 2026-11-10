@@ -1,0 +1,10 @@
+[client]
+# 상단 Deploy 버튼 등 개발자 메뉴 숨김
+toolbarMode = "minimal"
+
+# 기본색(primaryColor)만 지정하고 배경/글자색은 라이트·다크 모드 기본값을 그대로 쓴다.
+[theme.light]
+primaryColor = "#1F9D63"
+
+[theme.dark]
+primaryColor = "#1F9D63"
