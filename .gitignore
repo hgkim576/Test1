@@ -1,0 +1,7 @@
+# 쇼핑 리스트 데이터 (개인 데이터라 저장소에 올리지 않음)
+shopping_list.json
+.shopping_list.json.*.tmp
+shopping_list.broken-*.json
+
+__pycache__/
+.playwright-mcp/
